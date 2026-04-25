@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.hero {
+    background: #f4f4f4;
+    padding: 2rem;
+}
+input[type="text"] {
+    padding: 0.5rem;
+}
+.latest-recipes {
+    display: flex;
+    flex-wrap: wrap;
+}
